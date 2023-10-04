@@ -11,4 +11,6 @@
     --background-container: rgba(255, 255, 255, 0.8);
     --color-text: #fff;
     --box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    --btn-color: #F67280;
+    --btn-hover-color: #C06C84;
 }
