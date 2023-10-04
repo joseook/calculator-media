@@ -52,7 +52,7 @@ Esta é uma simples ferramenta para calcular a média escolar com base nas notas
 ### Conteúdo
 
 - Abra o arquivo `index.html` e substitua o conteúdo conforme necessário.
-- Adicione ou remova seções conforme necessário.
+
 
 ### Estilos
 
