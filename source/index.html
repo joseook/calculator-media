@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Média Escolar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calcule sua média aqui</h1>
+        <label for="av1">Nota AV1:</label>
+        <input type="number" id="av1" placeholder="Digite sua nota AV1">
+        <label for="av2">Nota AV2:</label>
+        <input type="number" id="av2" placeholder="Digite sua nota AV2">
+        <label for="av3">Nota AV3:</label>
+        <input type="number" id="av3" placeholder="Digite sua nota AV3">
+        <label for="avt">Nota AVT:</label>
+        <input type="number" id="avt" placeholder="Digite sua nota AVT">
+        <button onclick="calcularMedia()">Calcular Média</button>
+        <button onclick="limparCampos()">Limpar</button>
+        <p id="resultado"></p>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
