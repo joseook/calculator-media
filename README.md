@@ -34,7 +34,7 @@ Esta é uma simples ferramenta para calcular a média escolar com base nas notas
 1. Clone este repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/seuusuario/calculadora-media.git
+   git clone https://github.com/joseook/calculadora-media.git
    ```
 
 2. Navegue até a pasta do projeto:
