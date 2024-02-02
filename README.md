@@ -3,12 +3,6 @@
 
 Esta é uma simples ferramenta para calcular a média escolar com base nas notas inseridas. A calculadora é construída usando HTML, CSS e JavaScript e inclui validação de entrada e cálculo automático da média.
 
-![Screenshot](./source/img/calculator.png)
-
-## Demonstração
-
-- Veja uma demonstração ao vivo da calculadora [aqui](./source/img/gif/calculator.gif).
-
 ## Conteúdo
 
 - [Estrutura do Projeto](#estrutura-do-projeto)
